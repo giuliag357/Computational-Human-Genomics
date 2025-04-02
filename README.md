@@ -1,1 +1,3 @@
-# Computational-Human-Genomics
+# Computational Human Genomics
+
+This project focuses on the genomic analysis of individual oncology patients to identify and interpret somatic genomic aberrations with potential clinical relevance. Unlike traditional studies that require large patient cohorts, this approach aims to extract meaningful insights from a single patient's tumor DNA. By analyzing sequencing data from paired tumor and control samples (provided as BAM files), the project involves detecting somatic events such as single nucleotide variants (SNVs) and copy number alterations (CNAs). The workflow includes quality control measures, sample identity verification, visual inspections, and tumor population characterization to ensure accurate and clinically relevant findings.
